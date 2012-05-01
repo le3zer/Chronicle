@@ -6,4 +6,7 @@
   <packaging>war</packaging>
   <name>Chronicle</name>
   <description>This is my project website</description>
+  <dependencies>
+  
+  </dependencies>
 </project>
